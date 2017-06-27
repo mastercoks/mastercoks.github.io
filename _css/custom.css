@@ -1,0 +1,14 @@
+svg:not(:root) {
+    width: 40px;
+}
+@media only screen and (max-width: 992px) {
+	.side-nav a {
+		padding: 0px;
+	}
+	.side-nav {
+		width: 300px;
+	}
+}
+cloudflare-app a {
+	padding: 0px;
+}
